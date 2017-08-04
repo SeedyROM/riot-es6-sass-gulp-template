@@ -6,7 +6,7 @@ import riot from 'riot'
 import * as Tags from './tags'
 
 // Wait for the DOM to be ready...
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async () => {
     // Mount our tag and pass some info.
     riot.mount('users', {title: 'Employees'})
 })
