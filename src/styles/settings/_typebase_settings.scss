@@ -1,0 +1,15 @@
+// Font imports
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab&Catamaran';
+
+// Font choices
+$header-font-family: 'Roboto Slab', serif;
+$content-font-family: 'Catamaran', sans-serif;
+
+// Typesetting variables. Edit these!
+$base-font-size: 15;
+$base-line-height: 1.5;
+$leading: $base-line-height * 1rem;
+
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
+$scale: 1.414;

@@ -1,0 +1,10 @@
+// Typography settings
+@import 'typebase';
+
+$primary-color: desaturate(tomato, 30%);
+
+body {
+    background: $primary-color;
+    color: #fff;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
+}

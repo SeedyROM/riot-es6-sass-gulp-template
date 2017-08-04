@@ -1,0 +1,8 @@
+{
+    "presets": ["es2015", "es2015-riot"],
+    "plugins": [
+        ["wildcard", {
+            "exts": ["js", "es6", "es", "jsx", "javascript", "tag"]
+        }]
+    ]
+}
