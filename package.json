@@ -1,10 +1,10 @@
 {
-  "name": "design_events",
-  "version": "1.0.0",
-  "description": "",
+  "name": "riot-es6-sass-gulp-template",
+  "version": "0.2.0",
+  "description": "A simple boilerplate for a configuration I'm working on.",
   "main": "src/app.js",
   "scripts": {
-    "dev": "node ./node_modules/gulp/bin/gulp.js" 
+    "dev": "node ./node_modules/gulp/bin/gulp.js"
   },
   "keywords": [],
   "author": "",
